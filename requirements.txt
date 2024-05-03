@@ -1,5 +1,4 @@
 matplotlib
-geopy.geocoders
-geopy.distance
+geopy
 Nominatim
 geodesic
