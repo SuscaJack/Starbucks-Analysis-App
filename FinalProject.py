@@ -21,9 +21,9 @@ import pandas as pd
 import streamlit as st
 import pydeck as pdk
 import datetime
-#import matplotlib.pyplot as plt
-#from geopy.geocoders import Nominatim
-#from geopy.distance import geodesic
+import matplotlib.pyplot as plt
+from geopy.geocoders import Nominatim
+from geopy.distance import geodesic
 
 # read in the data
 def read_data():
