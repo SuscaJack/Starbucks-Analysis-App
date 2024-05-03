@@ -16,12 +16,12 @@ ownership distribution of 10,000 starbucks locations around the world, and the t
 when each location in Boston was added to the database. The last page asks the user to input a US city and then displays
 the five starbucks locations that are nearest to the center of chosen city.
 '''
-matplotlib==3.4.3
+
 import pandas as pd
 import streamlit as st
 import pydeck as pdk
 import datetime
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 from geopy.geocoders import Nominatim
 from geopy.distance import geodesic
 
