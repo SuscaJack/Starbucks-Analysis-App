@@ -1,4 +1,3 @@
 matplotlib
 geopy
-Nominatim
-geodesic
+
