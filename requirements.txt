@@ -1,3 +1,3 @@
-import matplotlib
-import Nominatim
-import geodesic
+pip install matplotlib
+pip install Nominatim
+pip install geodesic
